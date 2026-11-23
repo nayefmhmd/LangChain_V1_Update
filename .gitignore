@@ -1,0 +1,25 @@
+# API keys and secrets
+.env
+
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Audio test files
+*.mp3
+*.wav
+*.m4a
+
+# Build output
+dist/
+build/
+*.egg-info/
