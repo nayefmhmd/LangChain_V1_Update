@@ -13,8 +13,11 @@ dependencies = [
     "langchain-community>=0.4.2",
     "langchain-google-genai>=4.5.2",
     "langchain-groq>=1.2.1",
+    "langchain-ollama>=1.1.0",
     "langchain-openai>=1.8.5",
+    "langgraph>=1.2.24",
     "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
 ]
 
 [project.scripts]
